@@ -36,7 +36,7 @@ const FeaturedProduct = ({type}) => {
             id: 4,
             img: "https://images.pexels.com/photos/2065200/pexels-photo-2065200.jpeg?auto=compress&cs=tinysrgb&w=1600",
             img2: "",
-            title: "false",
+            title: "Skirt",
             isNew: true,
             oldPrice: 19,
             price: 12,
